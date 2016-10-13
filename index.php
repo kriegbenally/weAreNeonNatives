@@ -9,27 +9,19 @@
 
     <div class="parallax nyc hero" data-parallax-speed="1">
       <div class="hero-content">
-        <h1>Hello World</h1>
-        <p>This is parallax element one</p>
+        <h1>Hello Internet</h1>
+        <p>We are Neon Natives</p>
       </div>
-    </div>
-
-    <div class="cleft-wrapper">
-      <div class="cleft-left"></div>
-      <div class="cleft-right"></div>
     </div>
 
     <div class="spacer">
       <div class="container">
-        <h3>Placeholder as Content?</h3>
+        <h3>Welcome to our site.</h3>
+        <h4>Take a look around, like some stuff.</h4>
         <p>Mauris condimentum porttitor massa molestie elementum. Proin rhoncus, arcu sit amet molestie dignissim, sapien risus mattis arcu, et fringilla ipsum purus vitae neque. Phasellus ultricies dolor libero, at efficitur nulla tincidunt eget. Donec eget mauris nec libero vestibulum porta. Aenean sit amet turpis vehicula, vestibulum nunc sed, dapibus ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam lobortis tincidunt iaculis. Aenean et odio eros. Aenean fermentum mi ac maximus sollicitudin. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam posuere, est id varius posuere, dolor nisi interdum ante, eget consequat ante mi non ex. Mauris bibendum ac diam vitae efficitur.</p>
         <p>Maecenas id enim convallis, gravida nisi vitae, pellentesque quam. Curabitur vel scelerisque elit. Curabitur consectetur diam id ullamcorper rutrum. Donec porttitor aliquam arcu, ac dapibus arcu scelerisque id. Nulla eu augue sed nisl hendrerit tristique eu vitae libero. Sed ipsum justo, cursus sit amet lectus nec, convallis rutrum nibh. Aenean eget felis quis mauris egestas placerat ut sit amet leo. Aenean sagittis condimentum lectus. Pellentesque et nunc sapien. Praesent hendrerit dictum augue sed rutrum. Donec molestie eros massa, ac congue nisl mattis non. Cras non rhoncus ante. Curabitur feugiat ac risus non ullamcorper. Morbi rutrum mollis neque eu feugiat. Fusce tempus commodo venenatis. Morbi aliquet nunc at imperdiet cursus.</p>
         <p>Donec in mollis nisl, vel pharetra sem. Proin faucibus, nisl vel tristique feugiat, dolor sem ullamcorper libero, efficitur varius lacus augue a sem. Curabitur et lobortis erat. Donec ac mollis nulla, eu blandit turpis. Nunc arcu nunc, accumsan id cursus a, gravida ac justo. In hac habitasse platea dictumst. Aenean aliquet velit vel commodo varius. Donec nulla nunc, rutrum ultricies lacinia non, ornare vitae justo. Morbi porttitor dui ac faucibus posuere. Suspendisse ipsum purus, consequat non finibus ut, vestibulum quis nisl.</p>
       </div>
-    </div>
-
-    <div class="carrotBox">
-      <div class="carrot"></div>
     </div>
 
     <div class="parallax paris" data-parallax-speed="0.75">
@@ -37,11 +29,6 @@
         <h1>Bonjour, Paris</h1>
         <p>This is parallax element two.</p>
       </div>
-    </div>
-
-    <div class="cleft-wrapper">
-      <div class="cleft-left"></div>
-      <div class="cleft-right"></div>
     </div>
 
     <div class="spacer tallSpacer">
@@ -55,10 +42,6 @@
       </div>
     </div>
 
-    <div class="carrotBox">
-      <div class="carrot"></div>
-    </div>
-
     <div class="parallax madrid" data-parallax-speed="0.25">
       <div class="parallax-content">
         <h1>Hola, Madrid</h1>
@@ -66,18 +49,9 @@
       </div>
     </div>
 
-    <div class="cleft-wrapper">
-      <div class="cleft-left"></div>
-      <div class="cleft-right"></div>
-    </div>
-
     <div class="spacer centered">
       <button>Call to Action &raquo;</button>
       <button class="danger">There's Danger!</button>
-    </div>
-
-    <div class="carrotBox">
-      <div class="carrot"></div>
     </div>
 
     <div class="parallax nyc" data-parallax-speed="0.5">
@@ -85,11 +59,6 @@
         <h1>Goodbye</h1>
         <p>This is the last parallax element</p>
       </div>
-    </div>
-
-    <div class="cleft-wrapper">
-      <div class="cleft-left"></div>
-      <div class="cleft-right"></div>
     </div>
 
     <div class="spacer">
