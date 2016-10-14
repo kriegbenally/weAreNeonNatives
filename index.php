@@ -7,14 +7,20 @@
   </head>
   <body>
 
+    <?php require_once("lib/partials/navBar.php");?>
+
     <div class="parallax nyc hero" data-parallax-speed="1">
-      <div class="hero-content">
+      <div class="hero-content animated zoomIn">
         <h1>Hello Internet</h1>
-        <p>We are Neon Natives</p>
+        <p>We are</p>
+        <img src="lib/images/nNLogo.png" id="nNLogo" alt="" />
+        <div class="col-md-4 col-md-offset-4">
+          <a href="#ourStory"><button id="learnButton" type="button" name="button">Learn More</button></a>
+        </div>
       </div>
     </div>
 
-    <div class="spacer">
+    <div class="spacer" id="ourStory">
       <div class="container">
         <h3>Welcome to our site.</h3>
         <h4>Take a look around, like some stuff.</h4>
@@ -80,6 +86,8 @@
 
     <script src="lib/js/parallax.js"></script>
     <script src="lib/js/bootstrap.js"></script>
+    <script src="lib/js/hideNav.js"></script>
+    <script src="lib/js/smoothScroll.js"></script>
 
   </body>
 </html>

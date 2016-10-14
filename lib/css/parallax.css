@@ -19,7 +19,7 @@ body {padding: 0; font-family: lobster, arial, sans-serif}
 .parallax {
   display: block;
   text-align: center;
-  padding: 10em 1em;
+  padding: 5em 5em;
   color: white; overflow: hidden
 }
 .parallax h1 {
