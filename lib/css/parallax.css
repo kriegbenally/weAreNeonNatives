@@ -38,9 +38,9 @@ body {padding: 0; font-family: lobster, arial, sans-serif}
   text-shadow: 0 1px 0 rgba(255,255,255,0.75)
 }
 
-
-.nyc {
-  background: url(http://prestonise.com/images/nyc.jpg) no-repeat center center;
+.moki {
+  background: url('../images/heroNeonNativesBW.jpg') no-repeat center center;
+  background-size: cover;
 }
 
 .madrid {

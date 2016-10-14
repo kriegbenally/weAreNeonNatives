@@ -9,7 +9,7 @@
 
     <?php require_once("lib/partials/navBar.php");?>
 
-    <div class="parallax nyc hero" data-parallax-speed="1">
+    <div class="parallax moki hero" data-parallax-speed="1">
       <div class="hero-content animated zoomIn">
         <h1>Hello Internet</h1>
         <p>We are</p>
