@@ -79,6 +79,8 @@
       </div>
     </div>
 
+    <a href="#ourStory"><i class="fa fa-cloud-upload fa-3x"></i></a>
+
     <script src="https://code.jquery.com/jquery-2.2.4.js"
       integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
       crossorigin="anonymous">
@@ -88,6 +90,7 @@
     <script src="lib/js/bootstrap.js"></script>
     <script src="lib/js/hideNav.js"></script>
     <script src="lib/js/smoothScroll.js"></script>
+    <script src="lib/js/returnbutton.js"></script>
 
   </body>
 </html>

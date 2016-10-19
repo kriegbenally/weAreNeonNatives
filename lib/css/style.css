@@ -4,4 +4,16 @@
 
 #learnButton {
   margin-top:50px;
+  border: 2px solid white;
+  color: white;
+}
+
+.fa-cloud-upload{
+    background: transparent;
+}
+
+.fa-cloud-upload{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
 }
